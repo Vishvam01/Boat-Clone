@@ -1,0 +1,506 @@
+[
+   {
+       "item_id":1,
+       "category_id":1,
+       "category":"Wireless earbuds",
+       "product_id":1,
+       "item_name":"Immortal 131",
+       "item_image":"https://i.ibb.co/qW9j6jK/Immortal-131.webp",
+       "offer":"63%",
+       "cost":1299,
+       "colors":[
+                   {
+                    "color_id":1,
+                    "color_name":"black"
+                   },
+                   {
+                    "color_id":2,
+                    "color_name":"white"
+                   }
+                ]
+   },
+   {
+       "item_id":2,
+       "category_id":1,
+       "category":"Wireless earbuds",
+       "product_id":1,
+       "item_name":"Airdopes 181",
+       "item_image":"https://i.ibb.co/8bMt0pB/Airdopes-181.webp",
+       "offer":"50%",
+       "cost":1499,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":2,
+                        "color_name":"white"
+                     },
+                     {
+                        "color_id":3,
+                        "color_name":"blue"
+                     },
+                     {
+                        "color_id":4,
+                        "color_name":"grey"
+                     }
+                ]
+   },
+   {
+       "item_id":3,
+       "category_id":1,
+       "category":"Wireless earbuds",
+       "product_id":1,
+       "item_name":"Airdopes 131 pro",
+       "item_image":"https://i.ibb.co/YjKgcrj/airdopes-131-pro.webp",
+       "offer":"57%",
+       "cost":1299,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":3,
+                        "color_name":"blue"
+                     },
+                     {
+                        "color_id":5,
+                        "color_name":"green"
+                     }
+                ]
+   },
+   {
+       "item_id":4,
+       "category_id":1,
+       "category":"Wireless earbuds",
+       "product_id":1,
+       "item_name":"Airdopes 141",
+       "item_image":"https://i.ibb.co/rGXmcdr/Airdopes-141.webp",
+       "offer":"69%",
+       "cost":1399,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":2,
+                        "color_name":"white"
+                     }
+                ]
+   },
+   {
+       "item_id":5,
+       "category_id":1,
+       "category":"Wireless earbuds",
+       "product_id":1,
+       "item_name":"Airdopes 411 ANC",
+       "item_image":"https://i.ibb.co/ydWcvZ7/Airdopes-441-ANC.webp",
+       "offer":"50%",
+       "cost":2499,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":3,
+                        "color_name":"blue"
+                     },
+                     {
+                        "color_id":4,
+                        "color_name":"grey"
+                     }
+                ]
+   },
+
+
+
+
+
+   {
+       "item_id":6,
+       "category_id":2,
+       "category":"Wireless headphones",
+       "product_id":2,
+       "item_name":"Rockerz 410",
+       "item_image":"https://i.ibb.co/qRwsGTC/rockerz-410.webp",
+       "offer":"47%",
+       "cost":1599,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":2,
+                        "color_name":"white"
+                     },
+                     {
+                        "color_id":6,
+                        "color_name":"red"
+                     }
+                ]
+   },
+   {
+       "item_id":7,
+       "category_id":2,
+       "category":"Wireless headphones",
+       "product_id":2,
+       "item_name":"Rockerz 558",
+       "item_image":"https://i.ibb.co/wBY9KSD/Rockerz-558.webp",
+       "offer":"58%",
+       "cost":2099,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":5,
+                        "color_name":"green"
+                     },
+                     {
+                        "color_id":6,
+                        "color_name":"red"
+                     },
+                     {
+                        "color_id":9,
+                        "color_name":"maroon"
+                     }
+                ]
+   },
+   {
+       "item_id":8,
+       "category_id":2,
+       "category":"Wireless headphones",
+       "product_id":2,
+       "item_name":"Rockerz 518",
+       "item_image":"https://i.ibb.co/n633xMR/rockerz-518.webp",
+       "offer":"60%",
+       "cost":1599,
+       "colors":[
+                     {
+                        "color_id":3,
+                        "color_name":"blue"
+                     },
+                     {
+                        "color_id":5,
+                        "color_name":"green"
+                     },
+                     {
+                        "color_id":6,
+                        "color_name":"red"
+                     },
+                     {
+                        "color_id":10,
+                        "color_name":"orange"
+                     }
+                ]
+   },
+   {
+       "item_id":9,
+       "category_id":2,
+       "category":"Wireless headphones",
+       "product_id":2,
+       "item_name":"Rockerz 400",
+       "item_image":"https://i.ibb.co/Kzn6tBk/Rockerz-400.webp",
+       "offer":"50%",
+       "cost":1499,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":3,
+                        "color_name":"blue"
+                     },
+                     {
+                        "color_id":6,
+                        "color_name":"red"
+                     },
+                     {
+                        "color_id":7,
+                        "color_name":"yellow"
+                     }
+                ]
+   },
+   {
+       "item_id":10,
+       "category_id":2,
+       "category":"Wireless headphones",
+       "product_id":2,
+       "item_name":"Rockerz 370",
+       "item_image":"https://i.ibb.co/6sTxKgX/Rockerz-370.webp",
+       "offer":"52%",
+       "cost":1199,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":6,
+                        "color_name":"red"
+                     },
+                     {
+                        "color_id":5,
+                        "color_name":"green"
+                     }
+                ]
+   },
+
+
+
+
+
+
+   {
+       "item_id":11,
+       "category_id":3,
+       "category":"Party speakers",
+       "product_id":3,
+       "item_name":"Stone 500",
+       "item_image":"https://i.ibb.co/RcWJrDX/stone-500.webp",
+       "offer":"33%",
+       "cost":1999,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":3,
+                        "color_name":"blue"
+                     },
+                     {
+                        "color_id":5,
+                        "color_name":"green"
+                     }
+                ]
+    },
+   {
+       "item_id":12,
+       "category_id":3,
+       "category":"Party speakers",
+       "product_id":3,
+       "item_name":"Stone 350",
+       "item_image":"https://i.ibb.co/y4vYhZ6/stone-350.webp",
+       "offer":"54%",
+       "cost":1599,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":3,
+                        "color_name":"blue"
+                     },
+                     {
+                        "color_id":6,
+                        "color_name":"red"
+                     }
+                ]
+    },
+   {
+       "item_id":13,
+       "category_id":3,
+       "category":"Party speakers",
+       "product_id":3,
+       "item_name":"Stone 1200f",
+       "item_image":"https://i.ibb.co/N6j3y5c/stone-1200f.webp",
+       "offer":"43%",
+       "cost":3999,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":7,
+                        "color_name":"yellow"
+                     }
+                ]
+    },
+   {
+       "item_id":14,
+       "category_id":3,
+       "category":"Party speakers",
+       "product_id":3,
+       "item_name":"Stone 190",
+       "item_image":"https://i.ibb.co/yNX43Gf/stone-190.webp",
+       "offer":"57%",
+       "cost":1299,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":3,
+                        "color_name":"blue"
+                     },
+                     {
+                        "color_id":6,
+                        "color_name":"red"
+                     }
+                ]
+    },
+   {
+       "item_id":15,
+       "category_id":3,
+       "category":"Party speakers",
+       "product_id":3,
+       "item_name":"Stone 1010",
+       "item_image":"https://i.ibb.co/HtjrL9Y/stone-1010.webp",
+       "offer":"56%",
+       "cost":3099,
+       "colors":[
+                     {
+                        "color_id":1,
+                        "color_name":"black"
+                     },
+                     {
+                        "color_id":3,
+                        "color_name":"blue"
+                     }
+                ]
+    },
+
+
+
+
+
+    {
+        "item_id":16,
+        "category_id":4,
+        "category":"Smart watches",
+        "product_id":4,
+        "item_name":"Storm call",
+        "item_image":"https://i.ibb.co/kx7Z1G0/Storm-Call.webp",
+        "offer":"77%",
+        "cost":1799,
+        "colors":[
+                      {
+                         "color_id":1,
+                         "color_name":"black"
+                      },
+                      {
+                         "color_id":3,
+                         "color_name":"blue"
+                      },
+                      {
+                         "color_id":5,
+                         "color_name":"green"
+                      },
+                      {
+                         "color_id":8,
+                         "color_name":"cherry"
+                      }
+                 ]
+     },
+    {
+        "item_id":17,
+        "category_id":4,
+        "category":"Smart watches",
+        "product_id":4,
+        "item_name":"Wave leap call",
+        "item_image":"https://i.ibb.co/G7KPhk6/Wave-Leap-Call.webp",
+        "offer":"69%",
+        "cost":2199,
+        "colors":[
+                      {
+                         "color_id":1,
+                         "color_name":"black"
+                      },
+                      {
+                         "color_id":3,
+                         "color_name":"blue"
+                      },
+                      {
+                         "color_id":8,
+                         "color_name":"cherry"
+                      }
+                 ]
+     },
+    {
+        "item_id":18,
+        "category_id":4,
+        "category":"Smart watches",
+        "product_id":4,
+        "item_name":"Lunar call pro",
+        "item_image":"https://i.ibb.co/BZZdt9h/Lunar-Call-Pro.webp",
+        "offer":"38%",
+        "cost":4299,
+        "colors":[
+                      {
+                         "color_id":1,
+                         "color_name":"black"
+                      },
+                      {
+                         "color_id":3,
+                         "color_name":"blue"
+                      },
+                      {
+                         "color_id":8,
+                         "color_name":"cherry"
+                      }
+                 ]
+     },
+    {
+        "item_id":19,
+        "category_id":4,
+        "category":"Smart watches",
+        "product_id":4,
+        "item_name":"Ultima call max",
+        "item_image":"https://i.ibb.co/3ywnpB2/Ultima-Call-Max-Shot-4-1-2.webp",
+        "offer":"71%",
+        "cost":2499,
+        "colors":[
+                      {
+                         "color_id":1,
+                         "color_name":"black"
+                      },
+                      {
+                         "color_id":4,
+                         "color_name":"grey"
+                      },
+                      {
+                         "color_id":8,
+                         "color_name":"cherry"
+                      }
+                 ]
+     },
+    {
+        "item_id":20,
+        "category_id":4,
+        "category":"Smart watches",
+        "product_id":4,
+        "item_name":"Xtend pro",
+        "item_image":"https://i.ibb.co/KLZhzyF/bo-At-Xtend-Pro.webp",
+        "offer":"59%",
+        "cost":3999,
+        "colors":[
+                      {
+                         "color_id":1,
+                         "color_name":"black"
+                      },
+                      {
+                         "color_id":3,
+                         "color_name":"blue"
+                      },
+                      {
+                         "color_id":5,
+                         "color_name":"green"
+                      },
+                      {
+                         "color_id":6,
+                         "color_name":"red"
+                      }
+                 ]
+     }
+]

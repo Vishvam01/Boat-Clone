@@ -1,0 +1,95 @@
+
+[
+    {
+        "item_id":5,
+        "category_id":1,
+        "category":"Wireless earbuds",
+        "product_id":1,
+        "item_name":"Airdopes 411 ANC",
+        "item_image":"https://i.ibb.co/ydWcvZ7/Airdopes-441-ANC.webp",
+        "offer":"50%",
+        "cost":2499,
+        "colors":[
+                      {
+                         "color_id":1,
+                         "color_name":"black"
+                      },
+                      {
+                         "color_id":3,
+                         "color_name":"blue"
+                      },
+                      {
+                         "color_id":4,
+                         "color_name":"grey"
+                      }
+                 ]
+    },
+    {
+        "item_id":10,
+        "category_id":2,
+        "category":"Wireless headphones",
+        "product_id":2,
+        "item_name":"Rockerz 370",
+        "item_image":"https://i.ibb.co/6sTxKgX/Rockerz-370.webp",
+        "offer":"52%",
+        "cost":1199,
+        "colors":[
+                      {
+                         "color_id":1,
+                         "color_name":"black"
+                      },
+                      {
+                         "color_id":6,
+                         "color_name":"red"
+                      },
+                      {
+                         "color_id":5,
+                         "color_name":"green"
+                      }
+                 ]
+    },
+    {
+        "item_id":13,
+        "category_id":3,
+        "category":"Party speakers",
+        "product_id":3,
+        "item_name":"Stone 1200f",
+        "item_image":"https://i.ibb.co/N6j3y5c/stone-1200f.webp",
+        "offer":"43%",
+        "cost":3999,
+        "colors":[
+                      {
+                         "color_id":1,
+                         "color_name":"black"
+                      },
+                      {
+                         "color_id":7,
+                         "color_name":"yellow"
+                      }
+                 ]
+     },
+     {
+        "item_id":18,
+        "category_id":4,
+        "category":"Smart watches",
+        "product_id":4,
+        "item_name":"Lunar call pro",
+        "item_image":"https://i.ibb.co/BZZdt9h/Lunar-Call-Pro.webp",
+        "offer":"38%",
+        "cost":4299,
+        "colors":[
+                      {
+                         "color_id":1,
+                         "color_name":"black"
+                      },
+                      {
+                         "color_id":3,
+                         "color_name":"blue"
+                      },
+                      {
+                         "color_id":8,
+                         "color_name":"cherry"
+                      }
+                 ]
+     }
+]

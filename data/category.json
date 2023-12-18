@@ -1,0 +1,21 @@
+
+
+[
+   {
+       "category_id":1,
+       "category":"Wireless earbuds"
+    
+   },
+   {
+       "category_id":2,
+       "category":"Wireless headphones"
+   },
+   {
+       "category_id":3,
+       "category":"Party speakers"
+   },
+   {
+       "category_id":4,
+       "category":"Smart watches"
+   } 
+]

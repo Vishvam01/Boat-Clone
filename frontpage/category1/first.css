@@ -26,7 +26,7 @@
     justify-content: space-between;
   }
   .wrapper .logo{
-    margin-top: 2.%;
+    margin-top: 2.1%;
     margin-left:-16%;
   }
   .wrapper .nav-links{
@@ -611,13 +611,13 @@
     }
   }
 
-  /* Dope */
+    /* Dope */
   
 .dope{
     /* background-color: #d9b6ca; */
     height:300px;
     width:100%;
-    margin-top:2%;
+    margin-top:5%;
     display:inline-block;
   }
   .dopeitem{
